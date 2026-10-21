@@ -1,0 +1,6 @@
+{
+  "name": "LigtasAral — #WalangPasok & Commute Safety Tracker",
+  "description": "Philippine class suspension (#WalangPasok) and student commute safety tracker with verified LGU announcements, route status, MMDA flood alerts, and moderator verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
